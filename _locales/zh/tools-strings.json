@@ -1,4 +1,4 @@
 {
-    "tools|block": "工具",
-    "tools.writeRelay|block": "繼電器 角位 %pinNumber|開關 %status",
+    "tools|block": "繼電器",
+    "tools.writeRelay|block": "繼電器 腳位 %pinNumber|開關 %status",
 }
