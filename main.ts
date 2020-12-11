@@ -11,8 +11,8 @@ namespace tools {
     /**
     * 計算長方形面積，不回傳，只顯示在LED
     */
-    //% blockId="ledOfRectangle" block="show area of rectangle length %length|width %width"
-    //% blockGap=2 weight=1
+    //% blockId="writeRelay" block="Pin Number of Relay %pinNumber|switch %status"
+    //% blockGap=1 weight=2
     //export function ledOfRectangle(length: number, width:number): void {
     //    basic.showNumber(length*width)
     //}
